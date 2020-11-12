@@ -155,7 +155,7 @@ Keypad keypad_returnPressedWithoutWait();
 
 ### Pulse sensor
 
-We have used ```[Pulse sensor](https://pulsesensor.com/)``` to measure the heart rate of a user. 
+We have used [```Pulse sensor```](https://pulsesensor.com/) to measure the heart rate of a user. 
 **Warning! This code may not work.** 💔
 
 ##### Functions for display module.
